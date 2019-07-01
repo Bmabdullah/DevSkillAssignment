@@ -1,0 +1,10 @@
+C:\Users\Badhon\Desktop\DevskillAssignment\ClassTest1-Problem-2\ClassTest1-Problem-2\bin\Debug\netcoreapp2.1\ClassTest1-Problem-2.deps.json
+C:\Users\Badhon\Desktop\DevskillAssignment\ClassTest1-Problem-2\ClassTest1-Problem-2\bin\Debug\netcoreapp2.1\ClassTest1-Problem-2.runtimeconfig.json
+C:\Users\Badhon\Desktop\DevskillAssignment\ClassTest1-Problem-2\ClassTest1-Problem-2\bin\Debug\netcoreapp2.1\ClassTest1-Problem-2.runtimeconfig.dev.json
+C:\Users\Badhon\Desktop\DevskillAssignment\ClassTest1-Problem-2\ClassTest1-Problem-2\bin\Debug\netcoreapp2.1\ClassTest1-Problem-2.dll
+C:\Users\Badhon\Desktop\DevskillAssignment\ClassTest1-Problem-2\ClassTest1-Problem-2\bin\Debug\netcoreapp2.1\ClassTest1-Problem-2.pdb
+C:\Users\Badhon\Desktop\DevskillAssignment\ClassTest1-Problem-2\ClassTest1-Problem-2\obj\Debug\netcoreapp2.1\ClassTest1-Problem-2.csproj.CoreCompileInputs.cache
+C:\Users\Badhon\Desktop\DevskillAssignment\ClassTest1-Problem-2\ClassTest1-Problem-2\obj\Debug\netcoreapp2.1\ClassTest1-Problem-2.AssemblyInfoInputs.cache
+C:\Users\Badhon\Desktop\DevskillAssignment\ClassTest1-Problem-2\ClassTest1-Problem-2\obj\Debug\netcoreapp2.1\ClassTest1-Problem-2.AssemblyInfo.cs
+C:\Users\Badhon\Desktop\DevskillAssignment\ClassTest1-Problem-2\ClassTest1-Problem-2\obj\Debug\netcoreapp2.1\ClassTest1-Problem-2.dll
+C:\Users\Badhon\Desktop\DevskillAssignment\ClassTest1-Problem-2\ClassTest1-Problem-2\obj\Debug\netcoreapp2.1\ClassTest1-Problem-2.pdb
